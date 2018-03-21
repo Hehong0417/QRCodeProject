@@ -1,0 +1,6 @@
+use_frameworks!
+target 'QRCodeProject' do
+pod 'LBXScan','~> 1.1.1'
+pod 'LKDBHelper'
+
+end
